@@ -34,10 +34,12 @@ Publications and Manuscripts 💭:
 
 Talks 🗣️:
 =======
-- <span style="color:#f272a9">Exponential Time Hypothesis implies Parametrised Inapproximability Hypothesis</span>
-- <span style="color:#f272a9">Fully Linear PCPs and Hardness of approximating MAX-LIN</span>, @ COM3-02-70 (Meeting Room 25) on Friday, 07 February 2025
+- <span style="color:#f272a9">**Exponential Time Hypothesis implies Parametrised Inapproximability Hypothesis**</span>, @ COM3-02-70 (Meeting Room 25) on Friday, 13 September 2024
+- <span style="color:#f272a9">**Fully Linear PCPs and Hardness of approximating MAX-LIN**</span>, @ COM3-02-70 (Meeting Room 25) on Friday, 07 February 2025
 
 ---
 
 Teachings 👨‍🏫:
 =======
+- Aug 2023 - Dec 2023, TA for Design and Analysis of Algorithms @ CMI
+- Aug 2024 - Dec 2024, TA for CS4234 (Optimsation Algorithms) @ NUS
