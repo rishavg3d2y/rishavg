@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there,
+Hi there :wave:,
 ====
 
 I am a first year PhD Student at the School of Computing (SoC), [National University of Singapore](https://www.nus.edu.sg/) under the supervision of [Prof. Divesh Aggarwal](https://sites.google.com/site/diveshhomepage/).
@@ -37,5 +37,5 @@ Talks
 =======
 ---
 
-Professional Services
+Teachings and etc
 =======
