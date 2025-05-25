@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Rishav Gupta"
 author_profile: true
 redirect_from: 
   - /about/
