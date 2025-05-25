@@ -28,13 +28,15 @@ I graduated from Chennai Mathematical Institute, [(CMI)](https://www.cmi.ac.in/)
 Publications and Manuscripts 💭:
 =======
 
-<span style="color:#f272a9">**Mind the Gap? Not for SVP Hardness under ETH!** </span> [[arxiv]](https://arxiv.org/abs/2312.05686)- Divesh Aggarwal, Rishav Gupta, Aditya Morolia                 
-Preprint
+- <span style="color:#f272a9">**Mind the Gap? Not for SVP Hardness under ETH!** </span> [[arxiv]](https://arxiv.org/abs/2312.05686)- Divesh Aggarwal, Rishav Gupta, Aditya Morolia                 
 
 ---
 
 Talks 🗣️:
 =======
+- <span style="color:#f272a9">Exponential Time Hypothesis implies Parametrised Inapproximability Hypothesis</span>
+- <span style="color:#f272a9">Fully Linear PCPs and Hardness of approximating MAX-LIN</span>, @ COM3-02-70 (Meeting Room 25) on Friday, 07 February 2025
+
 ---
 
 Teachings 👨‍🏫:
