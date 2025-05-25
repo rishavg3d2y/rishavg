@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Rishav Gupta"
+title                    : "Rishav's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "rishavg3d2y.github.io/rishavg"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Rishav Gupta"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
