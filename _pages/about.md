@@ -20,15 +20,18 @@ I graduated from Chennai Mathematical Institute, [(CMI)](https://www.cmi.ac.in/)
 
 <span style="color:orange">CV</span>: [link]()
 
+---
 Publications and Manuscripts
 =======
 
-**Mind the Gap? Not for SVP Hardness under ETH!**  [[arxiv]](https://arxiv.org/abs/2312.05686) Divesh Aggarwal, Rishav Gupta, Aditya Morolia                 
+<span style="color:red">**Mind the Gap? Not for SVP Hardness under ETH!** </span>  [[arxiv]](https://arxiv.org/abs/2312.05686) Divesh Aggarwal, Rishav Gupta, Aditya Morolia                 
 Preprint
 
+---
 
 Talks
 =======
+---
 
 Professional Services
 =======
