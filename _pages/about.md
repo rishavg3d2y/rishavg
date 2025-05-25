@@ -37,5 +37,5 @@ Talks
 =======
 ---
 
-Teachings and etc
+Teachings
 =======
