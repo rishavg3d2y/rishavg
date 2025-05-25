@@ -14,11 +14,11 @@ My research interests lie in Complexity Theory, Hardness of Aprroximation and Th
 
 I graduated from Chennai Mathematical Institute, [(CMI)](https://www.cmi.ac.in/), in 2024.
 
-Contact: rishavg [At] u [dot] nus [dot] edu, rishavg3d2y [At] gmail [dot] com
+<span style="color:orange">Contact<\span>: rishavg [At] u [dot] nus [dot] edu, rishavg3d2y [At] gmail [dot] com
 
-Office:  COM3-02-18 NUS
+<span style="color:orange">Office<\span>:  COM3-02-18 NUS
 
-[CV]()
+<span style="color:orange">CV<\span>[link]()
 
 Publications and Manuscripts
 =======
