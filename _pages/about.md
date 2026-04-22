@@ -28,7 +28,7 @@ I graduated from Chennai Mathematical Institute, [(CMI)](https://www.cmi.ac.in/)
 <span style="color:#8fba8a"> Publications and Manuscripts </span> 💭:
 =======
 
-- <span style="color:#f272a9">**Mind the Gap? Not for SVP Hardness under ETH!** </span> [[arxiv]](https://arxiv.org/abs/2504.02695)- Divesh Aggarwal, Rishav Gupta, Aditya Morolia                 
+- <span style="color:#f272a9">**Mind the Gap? Not for SVP Hardness under ETH!** </span>[ICALP'26] [[arxiv]](https://arxiv.org/abs/2504.02695)- Divesh Aggarwal, Rishav Gupta, Aditya Morolia, Chuanqi Zhang                 
 
 ---
 
