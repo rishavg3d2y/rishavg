@@ -10,7 +10,7 @@ redirect_from:
 <span style="color:#8fba8a"> Hi there </span> :wave:,
 ====
 
-I am a first year PhD Student at the School of Computing (SoC), [National University of Singapore](https://www.nus.edu.sg/) under the supervision of [Prof. Divesh Aggarwal](https://sites.google.com/site/diveshhomepage/).
+I am a second year PhD Student at the School of Computing (SoC), [National University of Singapore](https://www.nus.edu.sg/) under the supervision of [Prof. Divesh Aggarwal](https://sites.google.com/site/diveshhomepage/).
 
 My research interests lie in Fine-grained Complexity Theory, Hardness of Approximation and Theoretical Computer Science in general. 
 
