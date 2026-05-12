@@ -28,8 +28,8 @@ I graduated from Chennai Mathematical Institute, [(CMI)](https://www.cmi.ac.in/)
 <span style="color:#8fba8a"> Publications and Manuscripts </span> 💭:
 =======
 
-- <span style="color:#f272a9">**Mind the Gap? Not for SVP Hardness under ETH!** </span> <span style="color:#e6de49">[ICALP'26]</span> [[arxiv]](https://arxiv.org/abs/2504.02695)- Divesh Aggarwal, Rishav Gupta, Aditya Morolia, Chuanqi Zhang.                 
--<span style="color:#f272a9">**Tight Lower Bound for Approximating Parametrized Maximum Likelihood Decoding under ETH** </span> <span style="color:#e6de49">[CCC'26]</span> [[arxiv]](https://arxiv.org/abs/2605.08797)- Rishav Gupta, Bingkai Lin, Xin Zheng.
+- <span style="color:#f272a9">**Mind the Gap? Not for SVP Hardness under ETH!** </span> <span style="color:#e6de49">[ICALP'26]</span> [[arxiv]](https://arxiv.org/abs/2504.02695)- Divesh Aggarwal, Rishav Gupta, Aditya Morolia, Chuanqi Zhang.
+- <span style="color:#f272a9">**Tight Lower Bound for Approximating Parametrized Maximum Likelihood Decoding under ETH** </span> <span style="color:#e6de49">[CCC'26]</span> [[arxiv]](https://arxiv.org/abs/2605.08797)- Rishav Gupta, Bingkai Lin, Xin Zheng.
 ---
 
 <span style="color:#8fba8a"> Talks </span> 🗣️:
